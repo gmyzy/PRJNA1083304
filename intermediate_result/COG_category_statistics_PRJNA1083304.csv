@@ -1,0 +1,20 @@
+"COG_Category","Function_Name","Count"
+"I","I: Lipid transport and metabolism",142
+"G","G: Carbohydrate transport and metabolism",131
+"F","F: Nucleotide transport and metabolism",130
+"E","E: Amino acid transport and metabolism",123
+"O","O: Posttranslational modification, protein turnover, chaperones",123
+"N","N: Cell motility",120
+"H","H: Coenzyme transport and metabolism",119
+"M","M: Cell wall/membrane/envelope biogenesis",110
+"P","P: Inorganic ion transport and metabolism",107
+"J","J: Translation, ribosomal structure and biogenesis",106
+"Q","Q: Secondary metabolites biosynthesis, transport and catabolism",105
+"C","C: Energy production and conversion",94
+"V","V: Defense mechanisms",91
+"L","L: Replication, recombination and repair",86
+"D","D: Cell cycle control, cell division, chromosome partitioning",84
+"K","K: Transcription",75
+"S","S: Function unknown",70
+"R","R: General function prediction only",53
+"T","T: Signal transduction mechanisms",40
